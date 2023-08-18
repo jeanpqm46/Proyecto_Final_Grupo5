@@ -1,0 +1,22 @@
+C:\Users\carlo\Desktop\Education\UH\Estructura de Datos\Proyecto2\Ejercicio2Lista\AppLista\AppLista\bin\Debug\AppLista.exe.config
+C:\Users\carlo\Desktop\Education\UH\Estructura de Datos\Proyecto2\Ejercicio2Lista\AppLista\AppLista\bin\Debug\AppLista.exe
+C:\Users\carlo\Desktop\Education\UH\Estructura de Datos\Proyecto2\Ejercicio2Lista\AppLista\AppLista\bin\Debug\AppLista.pdb
+C:\Users\carlo\Desktop\Education\UH\Estructura de Datos\Proyecto2\Ejercicio2Lista\AppLista\AppLista\obj\Debug\AppLista.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Education\UH\Estructura de Datos\Proyecto2\Ejercicio2Lista\AppLista\AppLista\obj\Debug\AppLista.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Desktop\Education\UH\Estructura de Datos\Proyecto2\Ejercicio2Lista\AppLista\AppLista\obj\Debug\AppLista.FrmDatos.resources
+C:\Users\carlo\Desktop\Education\UH\Estructura de Datos\Proyecto2\Ejercicio2Lista\AppLista\AppLista\obj\Debug\AppLista.Properties.Resources.resources
+C:\Users\carlo\Desktop\Education\UH\Estructura de Datos\Proyecto2\Ejercicio2Lista\AppLista\AppLista\obj\Debug\AppLista.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Education\UH\Estructura de Datos\Proyecto2\Ejercicio2Lista\AppLista\AppLista\obj\Debug\AppLista.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Education\UH\Estructura de Datos\Proyecto2\Ejercicio2Lista\AppLista\AppLista\obj\Debug\AppLista.exe
+C:\Users\carlo\Desktop\Education\UH\Estructura de Datos\Proyecto2\Ejercicio2Lista\AppLista\AppLista\obj\Debug\AppLista.pdb
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\AppLista\AppLista\AppLista\bin\Debug\AppLista.exe.config
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\AppLista\AppLista\AppLista\bin\Debug\AppLista.exe
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\AppLista\AppLista\AppLista\bin\Debug\AppLista.pdb
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\AppLista\AppLista\AppLista\obj\Debug\AppLista.csproj.AssemblyReference.cache
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\AppLista\AppLista\AppLista\obj\Debug\AppLista.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\AppLista\AppLista\AppLista\obj\Debug\AppLista.FrmDatos.resources
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\AppLista\AppLista\AppLista\obj\Debug\AppLista.Properties.Resources.resources
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\AppLista\AppLista\AppLista\obj\Debug\AppLista.csproj.GenerateResource.cache
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\AppLista\AppLista\AppLista\obj\Debug\AppLista.csproj.CoreCompileInputs.cache
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\AppLista\AppLista\AppLista\obj\Debug\AppLista.exe
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\AppLista\AppLista\AppLista\obj\Debug\AppLista.pdb

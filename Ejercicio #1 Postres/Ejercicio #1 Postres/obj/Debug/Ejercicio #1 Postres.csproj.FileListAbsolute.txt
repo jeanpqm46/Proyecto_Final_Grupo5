@@ -1,0 +1,17 @@
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\Ejercicio #1 Postres\bin\Debug\Ejercicio #1 Postres.exe.config
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\Ejercicio #1 Postres\bin\Debug\Ejercicio #1 Postres.exe
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\Ejercicio #1 Postres\bin\Debug\Ejercicio #1 Postres.pdb
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\Ejercicio #1 Postres\obj\Debug\Ejercicio #1 Postres.csproj.AssemblyReference.cache
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\Ejercicio #1 Postres\obj\Debug\Ejercicio #1 Postres.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\Ejercicio #1 Postres\obj\Debug\Ejercicio__1_Postres.Form1.resources
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\Ejercicio #1 Postres\obj\Debug\Ejercicio__1_Postres.Properties.Resources.resources
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\Ejercicio #1 Postres\obj\Debug\Ejercicio #1 Postres.csproj.GenerateResource.cache
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\Ejercicio #1 Postres\obj\Debug\Ejercicio #1 Postres.csproj.CoreCompileInputs.cache
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\Ejercicio #1 Postres\obj\Debug\Ejercicio #1 Postres.exe
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\Ejercicio #1 Postres\obj\Debug\Ejercicio #1 Postres.pdb
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\Ejercicio #1 Postres\obj\Debug\Ejercicio__1_Postres.Agregar.resources
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\Ejercicio #1 Postres\obj\Debug\Ejercicio__1_Postres.Frm_AccionProducto.resources
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\Ejercicio #1 Postres\obj\Debug\Ejercicio__1_Postres.Frm_Eliminar.resources
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\Ejercicio #1 Postres\bin\Debug\BLL.dll
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\Ejercicio #1 Postres\bin\Debug\BLL.pdb
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\Ejercicio #1 Postres\obj\Debug\Ejercicio #1 Postres.csproj.CopyComplete

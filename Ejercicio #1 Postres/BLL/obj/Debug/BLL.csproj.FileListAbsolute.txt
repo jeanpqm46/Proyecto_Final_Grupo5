@@ -1,0 +1,6 @@
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\BLL\bin\Debug\BLL.dll
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\BLL\bin\Debug\BLL.pdb
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\BLL\obj\Debug\BLL.dll
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\Proyecto Final\Ejercicio #1 Postres\BLL\obj\Debug\BLL.pdb
